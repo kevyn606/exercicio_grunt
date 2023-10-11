@@ -1,0 +1,13 @@
+
+{
+  "name": "seu-projeto",
+  "version": "1.0.0",
+  "scripts": {
+    "grunt": "grunt"
+  },
+  "devDependencies": {
+    "grunt": "^1.6.1", 
+    "grunt-contrib-less": "^3.0.0", 
+    "grunt-contrib-uglify": "^5.2.2"
+  }
+}
